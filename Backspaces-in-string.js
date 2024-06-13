@@ -25,3 +25,5 @@ function clean_string(s) {
     }
     return result.join('')
 }
+
+// or
